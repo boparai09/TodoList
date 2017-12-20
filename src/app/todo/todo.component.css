@@ -1,0 +1,25 @@
+  .todos input.textfield {
+    width: 480px;
+    height: 36px;
+    margin-right: 20px;
+    font-size: 1.4em;
+    vertical-align: top;
+  }
+
+  .todos li{
+    list-style: none;
+  }
+
+  .todos input.checkbox {
+    width: 20px;
+    height: 15px;
+    display: inline-block;
+  }
+
+  .todos .checked {
+    text-decoration: line-through;
+  }
+
+  .todos .glyphicon {
+    cursor: pointer;
+  }
